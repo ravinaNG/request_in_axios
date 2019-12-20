@@ -1,0 +1,14 @@
+{
+  "name": "request_in_axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Saral_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravina",
+  "license": "ISC",
+  "dependencies": {
+    "node-cache": "^5.1.0"
+  }
+}
