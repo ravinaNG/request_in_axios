@@ -1,7 +1,10 @@
 # request_in_axios
-The same thing I have done in python also using request module([code](https://github.com/ravinaNG/request_in_python). For this I have a link where **Saral** data has stored in a Dictionary. 
-###### [Saral](http://saral.navgurukul.org/home) is the elearbning platform for [Navgurukul](https://navgurukul.org/) students. 
+## #Manipulating Dictionaries,
+## #Function concept and 
+## #Logic
 
+For this I have a link where **Saral** data has stored in a Dictionary. 
+###### [Saral](http://saral.navgurukul.org/home) is the elearbning platform for [Navgurukul](https://navgurukul.org/) students. 
 
 ###### link - 'http://saral.navgurukul.org/api/courses'
 
@@ -16,3 +19,5 @@ The same thing I have done in python also using request module([code](https://gi
 - #### (Up/next/previous) 
 Give infinite option to user for next course/exercise, previous course/exercise and for starting. take input from user like up(u/U), next(N/n) and previous(P/p).
 Take exit option too.
+
+### The same thing I have done in python also using request module([code](https://github.com/ravinaNG/request_in_python).
