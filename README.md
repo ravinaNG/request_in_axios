@@ -20,7 +20,7 @@ For this I have a link where **Saral** data has stored in a Dictionary.
 Give infinite option to user for next course/exercise, previous course/exercise and for starting. take input from user like up(u/U), next(N/n) and previous(P/p).
 Take exit option too.
 
-#### Used
+### Used
 - Node cache
 - axios module
 - readline-sync (for user input)
