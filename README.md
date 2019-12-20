@@ -11,3 +11,5 @@ The same thing I have done in python also using request. Here I have a link wher
 
 ### After finishing above tasks do this -
 - #### (Up/next/previous) 
+ - #### give infinite option to user for next course/exercise, previous course/exercise and for starting. take input from user like up(u/U), next(N/n) and previous(P/p).
+ - take exit option too
